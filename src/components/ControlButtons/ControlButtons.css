@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
 .Control-Buttons {
   margin: 3rem 0;
   width: 100%;
@@ -14,7 +15,7 @@
 }
 
 .btn {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: "Nunito", sans-serif;
   width: 10vw;
   height: 5vh;
   border-radius: 14px;
