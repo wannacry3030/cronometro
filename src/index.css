@@ -1,5 +1,10 @@
 .App {
-  background-color: rgb(238, 238, 238);
+  background: linear-gradient(
+    135deg,
+    rgba(191, 57, 137, 1) 0%,
+    rgb(9, 183, 222) 100%
+  );
+
   width: 100vw;
   height: 100vh;
   display: flex;
