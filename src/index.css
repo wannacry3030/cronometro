@@ -1,10 +1,5 @@
 .App {
-  background: linear-gradient(
-    135deg,
-    rgba(191, 57, 137, 1) 0%,
-    rgb(9, 183, 222) 100%
-  );
-
+  background-image: linear-gradient(to top left, #50b9cc 0%, #bf2e94 100%);
   width: 100vw;
   height: 100vh;
   display: flex;

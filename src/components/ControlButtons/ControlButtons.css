@@ -20,13 +20,18 @@
   border-radius: 14px;
   margin: 0px 6px;
   display: flex;
-  border: 2px solid #e42a2a;
+  border: 2px solid #c7365f;
   justify-content: center;
   align-items: center;
   cursor: pointer;
-  color: #f5f5f5;
+  color: #ffffff;
 }
 
 .btn-one {
-  background-color: #80128d;
+  background-color: #c7365f;
+}
+
+.btn-two {
+  background-color: #c7365f36;
+  opacity: 0.8;
 }
