@@ -13,7 +13,7 @@ export default function ControlButtons(props) {
         🔄 Reset
       </div>
       <div className="btn btn-one" onClick={props.handlePauseResume}>
-        {props.isPaused ? "⏯ Resume" : "⏯ Pause"}
+        {props.isPaused ? "▶️ Resume" : "▶️ Pause"}
       </div>
     </div>
   );
