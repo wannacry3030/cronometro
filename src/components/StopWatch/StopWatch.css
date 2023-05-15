@@ -14,7 +14,7 @@
 
 @media (max-width: 59em) {
   .stop-watch {
-    height: 85vh;
+    height: 80vh;
     width: 50vw;
     background-color: rgba(255, 255, 255, 0.35);
     backdrop-filter: blur(200px);
@@ -25,5 +25,11 @@
     align-items: center;
     justify-content: space-between;
     border-radius: 14px;
+  }
+}
+@media (max-width: 34em) {
+  .stop-watch {
+    height: 80vh;
+    width: 70vw;
   }
 }
